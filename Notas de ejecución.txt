@@ -1,0 +1,15 @@
+Para ejecutar la herramienta diseñada en Python,
+se requiere tener instaladas las siguientes versiones de Python:
+
+Python 2.7 - Esta versión es necesaria para ejecutar la herramienta de diccionarios
+
+Python 3.8 - Esta versión es necesaria para ejecutar la herramienta de extracción
+	     de Tweets y analisis de sentimiento.
+
+-Primero se ejecuta el arhivo "AnalisisSentimiento.py" con la version de Python 3.8
+
+-Despues cambiar de versión de Python a la 2.7 para posteriormente ejecutar el archivo "Diccionarios.py"
+
+Se recomienda que se hagan todas las descargas posibles con el archivo "AnalisisSentimiento.py"
+y al ultimo se ejecuta la herramienta de diccionarios con el nombre "Diccionarios.py" para agilizar el 
+proceso.
